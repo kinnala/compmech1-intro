@@ -2,6 +2,9 @@
 
 This repo contains introductory material for the course Computational Mechanics
 1 at the Department of Mathematics and Systems Analysis, Aalto University.  The
-aim is to get the user familiar with Python and finite element programming in a
-browser-based environment.
+aim is to get the student familiar with Python and finite element programming in
+a browser-based environment with no software installation required.
 
+Click the following link to open a notebook in Google Colab:
+
+[[https://colab.research.google.com/github/kinnala/compmech1-intro/blob/master/intro.ipynb]]
