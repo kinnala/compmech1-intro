@@ -1,0 +1,7 @@
+* Computational Mechanics 1
+
+This repo contains introductory material for the course Computational Mechanics
+1 at the Department of Mathematics and Systems Analysis, Aalto University.  The
+aim is to get the user familiar with Python and finite element programming in a
+browser-based environment.
+
